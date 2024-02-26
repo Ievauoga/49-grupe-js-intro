@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "badfriday": "node --watch ./exercises/badfriday.js",
     "object": "node --watch ./data-types/object.js",
     "reverse": "node --watch ./exercises/.js",
     "number-sum": "node --watch ./exercises/number-sum.js",
